@@ -101,27 +101,27 @@ retail-sql-analytics/
 
 ### Database Structure
 
-![Database Structure](screenshots/database_structure.png)
+![Database Structure](screenshots/database_structure.jpg)
 
 ### Top Products by Revenue
 
-![Top Products](screenshots/top_products.png)
+![Top Products](screenshots/top_products.jpg)
 
 ### Monthly Sales Trend
 
-![Monthly Sales](screenshots/monthly_sales.png)
+![Monthly Sales](screenshots/monthly_sales.jpg)
 
 ### Store Performance
 
-![Store Performance](screenshots/store_performance.png)
+![Store Performance](screenshots/store_performance.jpg)
 
 ### Month-over-Month Revenue Growth
 
-![Monthly Growth](screenshots/monthly_growth.png)
+![Monthly Growth](screenshots/monthly_growth.jpg)
 
 ### Customer Segmentation
 
-![Customer Segmentation](screenshots/customer_segmentation.png)
+![Customer Segmentation](screenshots/customer_segmentation.jpg)
 
 ## What I Learned
 
